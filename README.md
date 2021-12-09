@@ -4,3 +4,4 @@ My first Python project is a simple Mad Libs program. Mad Libs is a phrasal temp
 # Demo
 
 [Video Link](https://watch.screencastify.com/v/LlNGQ9KYp3r7q6g6UeYt")
+[![Screencast]["https://user-images.githubusercontent.com/52815609/145493038-c7292f81-01f3-4dc0-8bea-9f1749e41c17.png][https://watch.screencastify.com/v/LlNGQ9KYp3r7q6g6UeYt]
